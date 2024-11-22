@@ -1,0 +1,86 @@
+{
+  "Header": {
+    "home": "Home",
+    "expansionStrategies": "Expansion Strategies",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog"
+  },
+  "HeroSection": {
+    "title": "Welcome to Growth Business Development",
+    "subtitle": "We understand that each project is a unique opportunity to transform and grow your business.",
+    "cta": "Explore Our Services"
+  },
+  "GrowthDeveloper": {
+    "title": "A Growth Business Developer",
+    "description": "A Growth Business Developer is a professional specialized in identifying and creating growth opportunities for companies. Their role spans from strategic planning to implementing initiatives that drive business development.",
+    "cta": "Schedule a Meeting"
+  },
+  "ExpansionStrategies": {
+    "title": "Expansion Strategies in Mexico",
+    "description": "Our services are designed to drive your business growth in the Mexican market, leveraging unique opportunities and overcoming specific challenges.",
+    "strategies": {
+      "marketAnalysis": "Market analysis",
+      "strategicAlliances": "Strategic alliance development",
+      "processOptimization": "Business process optimization",
+      "innovativeTech": "Innovative technology implementation"
+    },
+    "cta": "Explore Opportunities"
+  },
+  "GrowthIntelligence": {
+    "title": "Growth Intelligence: Driving Growth",
+    "subtitle": "Intelligent Automation for Your Business",
+    "description": "Growth Intelligence is our intelligent automation solution designed to optimize processes, analyze data, and generate valuable insights to drive your business growth.",
+    "cta": "Discover Growth Intelligence"
+  },
+  "AliEstGrowth": {
+    "title": "AliEst-Growth",
+    "description": "AliEst-Growth is our group of companies specialized in creating and strengthening strategic alliances. We leverage unique synergies to drive mutual growth and generate long-term value for our partners.",
+    "benefits": {
+      "network": "Access to a diverse network of strategic partners",
+      "collaboration": "Cross-sector collaboration opportunities",
+      "resources": "Shared resources and economies of scale",
+      "innovation": "Collaborative innovation and new market development"
+    },
+    "cta": "Build Alliances"
+  },
+  "BlogSection": {
+    "title": "Growing Market in Mexico",
+    "readMore": "Read More",
+    "posts": {
+      "startups": {
+        "title": "The Rise of Startups in Mexico",
+        "description": "Discover how the startup ecosystem is transforming the Mexican economy."
+      },
+      "fintech": {
+        "title": "Technological Innovation in the Financial Sector",
+        "description": "Analysis of the latest fintech trends and their impact on traditional financial services."
+      },
+      "expansion": {
+        "title": "International Expansion Strategies",
+        "description": "Practical guide for companies looking to expand beyond national borders."
+      }
+    }
+  },
+  "CTASection": {
+    "title": "Ready to boost your business?",
+    "description": "Discover how our growth strategies and alliances can take your company to the next level.",
+    "cta": "Schedule a meeting today and let's work on your next big project"
+  },
+  "Footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": "Newsletter",
+    "subscribeButton": "Subscribe",
+    "copyright": "© {year} Growth Business Development México. All rights reserved.",
+    "home": "Home",
+    "services": "Services",
+    "expansionStrategies": "Expansion Strategies",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog"
+  },
+  "AgenteBD": {
+    "title": "BD Agent",
+    "placeholder": "Type your message...",
+    "welcomeMessage": "Hi! I'm the BD Agent, how can I help you today? I'm here to assist you with information about our services, schedule meetings, or answer any questions you may have."
+  }
+}
